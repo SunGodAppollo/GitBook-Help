@@ -10,12 +10,12 @@
         "flexible-alerts":{},
         "expandable-chapters":{},
         "donate": {
-          "wechat": "https://camo.githubusercontent.com/92d55fbe82b0d6b86dea4c17773973f40faacef3/68747470733a2f2f73322e617831782e636f6d2f323031392f30352f32372f5656425a6c442e6a7067",
-          "alipay": "https://camo.githubusercontent.com/92d55fbe82b0d6b86dea4c17773973f40faacef3/68747470733a2f2f73322e617831782e636f6d2f323031392f30352f32372f5656425a6c442e6a7067",
+          "wechat": "assets/imgs/wx.jpg",
+          "alipay": "assets/imgs/zhifubao.jpg",
           "title": "",
-          "button": "测试",
-          "alipayText": "默认值：支付宝捐赠",
-          "wechatText": "默认值：微信捐赠"
+          "button": "捐赠",
+          "alipayText": "支付宝捐赠",
+          "wechatText": "微信捐赠"
         },
         "page-treeview": {
             "copyright": "Copyright &#169; aleen42",
