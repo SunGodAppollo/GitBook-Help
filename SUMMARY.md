@@ -14,3 +14,4 @@
 
 * 附录二 Gitbook报错处理
     * [GitBook报错处理](gitbookError.md)
+    * [gitbook build 目录无法跳转解决办法](outToHtml.md)
