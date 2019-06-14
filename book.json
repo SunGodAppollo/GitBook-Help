@@ -5,8 +5,9 @@
   "language": "zh-hans",
   "gitbook": "3.2.3",
 
-    "plugins": ["donate","page-treeview","chapter-fold","expandable-chapters"],
+    "plugins": ["donate","page-treeview","chapter-fold","expandable-chapters","flexible-alerts"],
     "pluginsConfig": {
+        "flexible-alerts":{},
         "expandable-chapters":{},
         "donate": {
           "wechat": "https://camo.githubusercontent.com/92d55fbe82b0d6b86dea4c17773973f40faacef3/68747470733a2f2f73322e617831782e636f6d2f323031392f30352f32372f5656425a6c442e6a7067",
