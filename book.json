@@ -1,0 +1,30 @@
+{
+  "title": "gitbook使用说明书",
+  "author": "qq417045639",
+  "description": "介绍gitbook的使用",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+
+    "plugins": ["donate","page-treeview","chapter-fold","expandable-chapters"],
+    "pluginsConfig": {
+        "expandable-chapters":{},
+        "donate": {
+          "wechat": "https://camo.githubusercontent.com/92d55fbe82b0d6b86dea4c17773973f40faacef3/68747470733a2f2f73322e617831782e636f6d2f323031392f30352f32372f5656425a6c442e6a7067",
+          "alipay": "https://camo.githubusercontent.com/92d55fbe82b0d6b86dea4c17773973f40faacef3/68747470733a2f2f73322e617831782e636f6d2f323031392f30352f32372f5656425a6c442e6a7067",
+          "title": "",
+          "button": "测试",
+          "alipayText": "默认值：支付宝捐赠",
+          "wechatText": "默认值：微信捐赠"
+        },
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+         "chapter-fold":{}
+    }
+
+
+
+
+}
